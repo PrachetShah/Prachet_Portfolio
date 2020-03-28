@@ -172,7 +172,6 @@ a:hover{text-decoration: none;color: var(--font-color);}
 }
 
 .like-form-raised{
-    background-color: #6AFDEF;
     padding:5rem;
     border-radius: 1rem;
 }
