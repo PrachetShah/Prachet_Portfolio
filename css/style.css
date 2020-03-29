@@ -45,6 +45,13 @@
     margin-bottom: 2rem;
 }
 
+.about-para{
+   
+        font-family: GrotekMed;
+        margin-bottom: 2rem;
+   
+}
+
 .features_area {
     padding-bottom:2rem;
     padding-top: 2rem;
@@ -322,8 +329,6 @@ small{
 }
 
 .about-page{
-    margin-left: 15rem;
-    margin-right: 15rem;
     margin-top: 5rem;
 }
 
